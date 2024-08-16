@@ -1,0 +1,2 @@
+nodemon --inspect index.js
+pm2 monit

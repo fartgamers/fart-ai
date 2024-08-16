@@ -1,0 +1,6 @@
+# dependencies installed by npm
+
+node_modules
+config.json
+crs.txt
+msg.txt
