@@ -19,7 +19,7 @@
     "ms": "^2.1.2",
     "neocities": "0.0.3",
     "node-fetch": "^2.6.1",
-    "sequelize": "^6.2.3",
+    "sequelize": "^6.37.5",
     "sqlite3": "^4.2.0",
     "twitter": "^1.7.1"
   },
