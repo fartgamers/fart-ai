@@ -10,7 +10,7 @@
   "dependencies": {
     "@keyv/sqlite": "^4.0.4",
     "chalk": "^5.4.1",
-    "discord.js": "^14.19.3",
+    "discord.js": "^14.21.0",
     "eslint": "^9.28.0",
     "got": "^14.4.7",
     "keyv": "^5.3.4",
