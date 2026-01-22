@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@keyv/sqlite": "^4.0.4",
+    "@keyv/sqlite": "^4.0.6",
     "chalk": "^5.4.1",
     "discord.js": "^14.24.1",
     "eslint": "^9.28.0",
